@@ -18,7 +18,7 @@ import sys
 
 project = 'install turbotax'
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "alabaster"
 
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
