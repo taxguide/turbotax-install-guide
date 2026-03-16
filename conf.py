@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'amazon com mytv'
+project = 'install turbotax'
 
 
 # The full version, including alpha/beta/rc tags
