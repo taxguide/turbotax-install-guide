@@ -6,22 +6,8 @@ Complete Guide to Download, Install, and Activate TurboTax With License Code (20
    :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
-   :width: 350px
-   :align: center
-   :height: 100px
-
 .. image:: Screenshot_18.png
-   :width: 350px
-   :align: center
-   :height: 100px
-   :alt: installturbotax.com
-   :target: https://ts.remdos.com
-
 .. image:: blank.png
-   :width: 350px
-   :width: 350px
-   :align: center
-   :height: 100px
 
 TurboTax desktop software helps taxpayers prepare and file their tax returns accurately with step-by-step guidance. If you have purchased the program and want to install it on your computer, you will need to download the correct version and activate it using your license code. Many users also visit  
 `installturbotax.com <https://ts.remdos.com>`_ for quick access to installation instructions. This guide explains how to download TurboTax desktop, install the software on Windows or Mac, and activate it successfully for the latest tax year.
