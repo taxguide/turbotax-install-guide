@@ -5,7 +5,7 @@ Complete Guide to Download, Install, and Activate TurboTax With License Code (20
 .. meta::
    :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
-.. image:: Screenshot_18.png
+.. image:: intall turbotax.png
    :width: 350px
    :align: center
    :alt: installturbotax.com
